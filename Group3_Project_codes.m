@@ -1,5 +1,7 @@
 
 % PROJECT 5: SOCIAL MEDIA INFLUENCE ANALYSIS
+% Wanjiru Gatume - 676010
+% CindyMeredith Mamang-Kanga - 675031
 clear; clc;
 
 %% MAIN PARAMETERS
